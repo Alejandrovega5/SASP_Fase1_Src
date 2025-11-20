@@ -6,3 +6,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac diam nec m
 ## 2. Importancia Global
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed volutpat posuere tellus, at blandit risus eleif
 ## 2. commit 
+
