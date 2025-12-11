@@ -67,7 +67,7 @@ La tecnología ayuda mucho en la salud: desde **apps de seguimiento de enfermeda
 Guarda una imagen ilustrativa sobre el ODS 3, como una **infografía de salud y bienestar**, en la carpeta `/assets` y enlázala en la página así:
 
 ```markdown
-![Salud y bienestar](/assets/recurso-3.png)
+![Salud y bienestar](/docs/assets/recurso-3.png)
 
 ## Otros ODS relacionados
 
